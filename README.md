@@ -1,4 +1,4 @@
-![logo](https://github.com/Jayesh-Dhole/Jayesh-Dhole/blob/main/Geometric%20Tech%20Pattern%20Banner.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Jayesh Dhole</h1>
 <h3 align="center">A passionate Java Fullstack developer from India</h3>
 
